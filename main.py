@@ -179,9 +179,3 @@ def start():
 
 if __name__ == '__main__':
     start()
-
-
-# attack dragon
-#
-#
-# attack orc
