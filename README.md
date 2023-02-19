@@ -25,6 +25,8 @@ After every action by any entity, i.e. if Any Monster attacks Hero or Hero attac
 
 At the end of the game, stats such as Health Points of the winning side are displayed.
 
+**A Sample log of an earlier played game is present in repository for reference**
+
 ## Technical Aspects
 
 The code is entirely written in python and mostly uses python's inbuilt libraries. It only uses one external library i.e 'schedule'.
