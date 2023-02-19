@@ -1,0 +1,256 @@
+Game Has begun!!!! 
+ You control the Hero!
+Attack the Orc or Dragon by typing 'attack orc' or 'attack dragon' 
+attack dragon
+
+**Hero has attacked the Dragon!**
+=====
+Health of Dragon after attack 18
+=====
+
+
+**Orc has attacked the Hero!**
+=====
+Health of Hero after attack 39
+=====
+
+attack dragon
+
+**Hero has attacked the Dragon!**
+=====
+Health of Dragon after attack 16
+=====
+
+
+**Dragon has attacked the Hero!**
+=====
+Health of Hero after attack 36
+=====
+
+attack dragon
+
+**Hero has attacked the Dragon!**
+=====
+Health of Dragon after attack 14
+=====
+
+attack dragon
+
+**Hero has attacked the Dragon!**
+=====
+Health of Dragon after attack 12
+=====
+
+
+**Orc has attacked the Hero!**
+=====
+Health of Hero after attack 35
+=====
+
+attack dragon
+
+**Hero has attacked the Dragon!**
+=====
+Health of Dragon after attack 10
+=====
+
+attack dragon
+
+**Hero has attacked the Dragon!**
+=====
+Health of Dragon after attack 8
+=====
+
+
+**Dragon has attacked the Hero!**
+=====
+Health of Hero after attack 32
+=====
+
+attack dragon
+**Orc has attacked the Hero!**
+=====
+Health of Hero after attack 31
+=====
+
+
+attack dragon
+
+**Hero has attacked the Dragon!**
+=====
+Health of Dragon after attack 6
+=====
+
+attack dragon
+
+**Hero has attacked the Dragon!**
+=====
+Health of Dragon after attack 4
+=====
+
+
+**Dragon has attacked the Hero!**
+=====
+Health of Hero after attack 28
+=====
+
+
+**Orc has attacked the Hero!**
+=====
+Health of Hero after attack 27
+=====
+
+attack dragon
+
+**Hero has attacked the Dragon!**
+=====
+Health of Dragon after attack 2
+=====
+
+attack dragon
+
+**Hero has attacked the Dragon!**
+=====
+Health of Dragon after attack 0
+=====
+
+attack dragon
+**Orc has attacked the Hero!**
+=====
+Health of Hero after attack 26
+=====
+
+
+attack dragon
+
+**Hero has attacked the Dragon but its already dead!**
+
+attack dragon
+**Orc has attacked the Hero!**
+=====
+Health of Hero after attack 25
+=====
+
+
+attack dragon
+**Orc has attacked the Hero!**
+=====
+Health of Hero after attack 24
+=====
+
+
+**Orc has attacked the Hero!**
+=====
+Health of Hero after attack 23
+=====
+
+
+**Orc has attacked the Hero!**
+=====
+Health of Hero after attack 22
+=====
+
+
+**Orc has attacked the Hero!**
+=====
+Health of Hero after attack 21
+=====
+
+
+**Orc has attacked the Hero!**
+=====
+Health of Hero after attack 20
+=====
+
+
+**Orc has attacked the Hero!**
+=====
+Health of Hero after attack 19
+=====
+
+
+**Orc has attacked the Hero!**
+=====
+Health of Hero after attack 18
+=====
+
+attack orc
+
+**Hero has attacked the Orc!**
+=====
+Health of Orc after attack 5
+=====
+
+attack orc
+**Orc has attacked the Hero!**
+=====
+Health of Hero after attack 17
+=====
+
+
+attack orc
+
+**Hero has attacked the Orc!**
+=====
+Health of Orc after attack 3
+=====
+
+attack orc
+**Orc has attacked the Hero!**
+=====
+Health of Hero after attack 16
+=====
+
+
+
+**Orc has attacked the Hero!**
+=====
+Health of Hero after attack 15
+=====
+
+
+**Orc has attacked the Hero!**
+=====
+Health of Hero after attack 14
+=====
+
+
+**Orc has attacked the Hero!**
+=====
+Health of Hero after attack 13
+=====
+
+
+**Orc has attacked the Hero!**
+=====
+Health of Hero after attack 12
+=====
+
+attack orc
+
+**Hero has attacked the Orc!**
+=====
+Health of Orc after attack 1
+=====
+
+
+**Orc has attacked the Hero!**
+=====
+Health of Hero after attack 11
+=====
+
+attack orc
+
+**Hero has attacked the Orc!**
+=====
+Health of Orc after attack 0
+=====
+
+
+++++++Hero wins the Game!!!!++++++
+
+====Stats====
+Health of Hero 11
+
+
+Process finished with exit code 0
